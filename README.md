@@ -6,4 +6,10 @@
 # 4 talking about meta data, description, charset, style, script, link,
 # 5 comments using <!-- --> with shortcut ctrl+/
 # 6 doctype html
-#7 
+# 7 heading the text
+# 8 syntax
+#9 paraghraph
+#10 attributes
+#11 formating 
+#12 important formating elemensts
+#13 image insertion 
