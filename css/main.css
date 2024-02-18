@@ -3,16 +3,9 @@
     background-image: url("../images/home_background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-.logo {
-    font-size: 72px;
-    position: sticky;
+.logo {}
 
-}
-
-.bio {
-    font-size: 36px;
-
-
-}
+.bio {}
