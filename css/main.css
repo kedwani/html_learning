@@ -1,7 +1,18 @@
+.all {
+
+    background-image: url("../images/home_background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .logo {
-    background-color: red;
+    font-size: 72px;
+    position: sticky;
+
 }
 
 .bio {
-    color: red;
+    font-size: 36px;
+
+
 }
