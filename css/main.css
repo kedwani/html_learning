@@ -7,12 +7,12 @@
  */
     background-attachment: fixed;
     background-position: 50% 50%;
-
-
-
-
 }
 
-.logo {}
+.logo {
+    padding-left: 3%;
+}
 
-.bio {}
+.bio {
+    padding-left: 3%
+}
