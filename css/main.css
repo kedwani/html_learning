@@ -1,0 +1,18 @@
+.all {
+
+    background-image: url("../images/home_background.jpg");
+    background-size: 100% 100%;
+
+    /*     background-repeat: no-repeat;
+ */
+    background-attachment: fixed;
+    background-position: 50% 50%;
+}
+
+.logo {
+    padding-left: 10px;
+}
+
+.bio {
+    padding-left: 10px
+}
