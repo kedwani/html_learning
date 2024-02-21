@@ -1,0 +1,23 @@
+
+
+/* css code */
+
+div {
+width: 500px;
+margin: auto;
+margin-bottom: 20px;
+padding: 20px;
+background-color: blueviolet;
+/*background-color: #8a2be2;
+background-color: rgb(138,43,266,1); */
+}
+ 
+.assign-1-shape-1{
+    background-color: rgb(138,43,266,1);
+}
+.assign-1-shape-2{
+    background-color: rgb(138,43,266,.5);
+}
+.assign-1-shape-3{
+    background-color: rgb(138,43,266,.1);
+}
