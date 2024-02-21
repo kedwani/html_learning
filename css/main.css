@@ -1,18 +1,16 @@
-.all {
-
-    background-image: url("../images/home_background.jpg");
-    background-size: 100% 100%;
-
-    /*     background-repeat: no-repeat;
- */
-    background-attachment: fixed;
-    background-position: 50% 50%;
-}
-
 .logo {
-    padding-left: 10px;
+    height: fit-content;
+    margin: auto;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    padding: 10px;
 }
 
-.bio {
-    padding-left: 10px
+section {
+    background-color:  #EEE;
+ height: fit-content;
+width: max-content;
+border-bottom: 3px blue solid;
+padding-left: 10px;
 }

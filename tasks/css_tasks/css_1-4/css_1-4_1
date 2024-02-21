@@ -1,0 +1,16 @@
+
+/* Any Element With Class Title */
+.title {
+}
+
+/* any elemnt with ID nav */
+#nav {
+}
+
+/* any DIV element  */
+div {
+}
+
+/* any h2 element*/
+h2 { 
+}
