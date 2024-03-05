@@ -1,0 +1,13 @@
+div {
+    border: 2px orange solid;
+    padding: 10px;
+    margin: auto auto;
+    width: fit-content;
+
+}
+p{
+    background-color: #EEE;
+    border: inherit;
+    padding: inherit;
+    margin: inherit;
+}

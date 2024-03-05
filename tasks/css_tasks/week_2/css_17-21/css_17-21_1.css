@@ -1,0 +1,5 @@
+div {
+text-transform: capitalize;
+font-family: sans-serif;
+text-shadow: .5px .5px 0px  #f96528 , 1px 1px #53b5ef , 1.5px 1.5px rgb(153, 45, 180);
+}

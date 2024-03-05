@@ -1,0 +1,22 @@
+div {
+    font-family: sans-serif;
+    width: 400px;
+    background-color: #EEE;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 20px;
+    font-size: larger;
+}
+.two {
+    height: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    overflow-wrap: break-word;
+
+}
+.three {
+    max-height: 10px;
+     white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}

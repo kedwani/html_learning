@@ -1,0 +1,10 @@
+.one {
+text-transform: uppercase;
+}
+.two {
+    text-transform: capitalize;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+}
