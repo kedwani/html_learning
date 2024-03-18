@@ -6,7 +6,7 @@ p::before{
     background-color: #d0c9c9;
     display: inline-block;
     position: absolute;
-    left: -94px;
+    left: -100px;
     top: 7.5px;}
 p {
     color: black;
@@ -20,14 +20,15 @@ p {
     left: 150px;
     margin-bottom: 10px;
     font-family: sans-serif;
-    right: 0px;}
+    right: 0px;
+border-left: 5px #e91e63 solid;
+}
 p::after {
     content: "";
     position: absolute;
-    width: 5px;
-    height: 100%;
-    left: 0;
-    top: 0;
-    background-color: #da4477;
+    border: 10px transparent solid;
+    border-right-color: #e91e63 ;
+    left:-25px;
+    top: 20px;
 }
 
